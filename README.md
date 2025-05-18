@@ -26,10 +26,4 @@ We explore the Google Play Store dataset to understand its attributes, then dive
 5. What are the best free apps by installation numbers?
 6. What are the overall installation trends?
 
-## 📊 Featured Visualizations
-
-| Visualization | Purpose | Insights |
-|--------------|---------|----------|
-| ![Pie Chart](https://via.placeholder.com/150) | Category Distribution | Family (19%) & Games (11%) dominate |
-| ![Histogram](https://via.placeholder.com/150) | Rating Analysis | Most apps cluster at 4.0-4.5 rating |
-| ![Matrix](https://via.placeholder.com/150) | Data Quality Check | Identified 15% missing values in ratings |
+Thanks,give me your feedback   
